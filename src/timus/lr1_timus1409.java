@@ -1,7 +1,7 @@
 package timus;
 import java.util.Scanner;
 
-public class timus1409 {
+public class lr1_timus1409 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
